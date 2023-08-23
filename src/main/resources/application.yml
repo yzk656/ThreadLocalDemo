@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+user:
+  id: 1
+  username: zhangsan
+  password: 123456
